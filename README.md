@@ -13,11 +13,11 @@
 :---------------:| :---:
 [1.1: 초난감 DAO](https://github.com/hhplus9-6team/toby-spring-study/issues/1) | 다은
 [1.2: DAO의 분리](https://github.com/hhplus9-6team/toby-spring-study/issues/2) | 현정
-[1.3: DAO의 확장](https://github.com/hhplus9-6team/toby-spring-study/issues/3) | [준아](/chapter/1.3_DAO의_확장.md)
+[1.3: DAO의 확장](https://github.com/hhplus9-6team/toby-spring-study/issues/3) | [준아](/chapter01/1.3_DAO의_확장.md)
 [1.4: 제어의 역전(IoC)](https://github.com/hhplus9-6team/toby-spring-study/issues/4) | 종완
 1.5: 스프링의 IoC |
 1.6: 싱글톤 레지스트리와 오브젝트 스코프 |
-1.7: 의존관계 주입(DI) |
+[1.7: 의존관계 주입(DI)](https://github.com/hhplus9-6team/toby-spring-study/issues/10) | [준아](/chapter01/1.7_의존관계_주입_DI.md)
 1.8: XML을 이용한 설정 |
 
 ### 2장. 테스트
