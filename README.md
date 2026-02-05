@@ -11,23 +11,23 @@
 
 |       소제목       | 발표자료
 :---------------:| :---:
-[1.1: 초난감 DAO](https://github.com/hhplus9-6team/toby-spring-study/issues/1) | 다은
-[1.2: DAO의 분리](https://github.com/hhplus9-6team/toby-spring-study/issues/2) | 현정
+[1.1: 초난감 DAO](https://github.com/hhplus9-6team/toby-spring-study/issues/1) | [다은](/chapter01/1.1_초난감_DAO.md)
+[1.2: DAO의 분리](https://github.com/hhplus9-6team/toby-spring-study/issues/2) | [현정](/chapter01/1.2_DAO의_분리.md)
 [1.3: DAO의 확장](https://github.com/hhplus9-6team/toby-spring-study/issues/3) | [준아](/chapter01/1.3_DAO의_확장.md)
-[1.4: 제어의 역전(IoC)](https://github.com/hhplus9-6team/toby-spring-study/issues/4) | 종완
-1.5: 스프링의 IoC |
-1.6: 싱글톤 레지스트리와 오브젝트 스코프 |
+[1.4: 제어의 역전(IoC)](https://github.com/hhplus9-6team/toby-spring-study/issues/4) | [종완](/chaper01/1.4_제어의_역전_IoC.md)
+[1.5: 스프링의 IoC](https://github.com/hhplus9-6team/toby-spring-study/issues/8) | 현정
+[1.6: 싱글톤 레지스트리와 오브젝트 스코프](https://github.com/hhplus9-6team/toby-spring-study/issues/9) | 종완
 [1.7: 의존관계 주입(DI)](https://github.com/hhplus9-6team/toby-spring-study/issues/10) | [준아](/chapter01/1.7_의존관계_주입_DI.md)
-1.8: XML을 이용한 설정 |
+[1.8: XML을 이용한 설정](https://github.com/hhplus9-6team/toby-spring-study/issues/11) | 다은
 
 ### 2장. 테스트
 
 |       소제목       | 발표자료
 :---------------:| :---:
-2.1: UserDaoTest 다시 보기 |
-2.2: UserDaoTest 개선 |
-2.3: 개발자를 위한 테스팅 프레임워크 JUnit |
-2.4: 스프링 테스트 적용 |
+[2.1: UserDaoTest 다시 보기](https://github.com/hhplus9-6team/toby-spring-study/issues/17) | [준아](/chaper02/2.1_UserDaoTest_다시_보기.md)
+[2.2: UserDaoTest 개선](https://github.com/hhplus9-6team/toby-spring-study/issues/18) | 종완
+[2.3: 개발자를 위한 테스팅 프레임워크 JUnit](https://github.com/hhplus9-6team/toby-spring-study/issues/19) | 다은
+[2.4: 스프링 테스트 적용](https://github.com/hhplus9-6team/toby-spring-study/issues/20) | 현정
 2.5: 학습 테스트로 배우는 스프링 |
 
 ### 3장. 템플릿
