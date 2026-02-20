@@ -25,18 +25,18 @@
 |       소제목       | 발표자료
 :---------------:| :---:
 [2.1: UserDaoTest 다시 보기](https://github.com/hhplus9-6team/toby-spring-study/issues/17) | [준아](/chaper02/2.1_UserDaoTest_다시_보기.md)
-[2.2: UserDaoTest 개선](https://github.com/hhplus9-6team/toby-spring-study/issues/18) | 종완
-[2.3: 개발자를 위한 테스팅 프레임워크 JUnit](https://github.com/hhplus9-6team/toby-spring-study/issues/19) | 다은
-[2.4: 스프링 테스트 적용](https://github.com/hhplus9-6team/toby-spring-study/issues/20) | 현정
-2.5: 학습 테스트로 배우는 스프링 |
+[2.2: UserDaoTest 개선](https://github.com/hhplus9-6team/toby-spring-study/issues/18) | [종완](/chapter02/2.2_UserDaoTest_개선.md)
+[2.3: 개발자를 위한 테스팅 프레임워크 JUnit](https://github.com/hhplus9-6team/toby-spring-study/issues/19) | [다은](/chapter02/2.3_개발자를_위한_테스팅_프레임워크_JUnit.md)
+[2.4: 스프링 테스트 적용](https://github.com/hhplus9-6team/toby-spring-study/issues/20) | [현정](/chapter01/2.4_스프링_테스트_적용.md)
+[2.5: 학습 테스트로 배우는 스프링](https://github.com/hhplus9-6team/toby-spring-study/issues/25) | 현정
 
 ### 3장. 템플릿
 
 |       소제목       | 발표자료
 :---------------:| :---:
-3.1: 다시 보는 초난감 DAO |
-3.2: 변하는 것과 변하지 않는 것 |
-3.3: JDBC 전략 패턴의 최적화 |
+[3.1: 다시 보는 초난감 DAO](https://github.com/hhplus9-6team/toby-spring-study/issues/26) | [준아](/chapter03/3.1_다시_보는_초난감_DAO.md)
+[3.2: 변하는 것과 변하지 않는 것](https://github.com/hhplus9-6team/toby-spring-study/issues/27) | 종완
+[3.3: JDBC 전략 패턴의 최적화](https://github.com/hhplus9-6team/toby-spring-study/issues/28) | 다은
 3.4: 컨텍스트와 DI |
 3.5: 템플릿과 콜백 |
 3.6: 스프링의 JdbcTemplate |
