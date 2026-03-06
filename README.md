@@ -37,33 +37,33 @@
 [3.1: 다시 보는 초난감 DAO](https://github.com/hhplus9-6team/toby-spring-study/issues/26) | [준아](/chapter03/3.1_다시_보는_초난감_DAO.md)
 [3.2: 변하는 것과 변하지 않는 것](https://github.com/hhplus9-6team/toby-spring-study/issues/27) | [종완](/chapter03/3.2_변하는_것과_변하지_않는_것.md)
 [3.3: JDBC 전략 패턴의 최적화](https://github.com/hhplus9-6team/toby-spring-study/issues/28) | [다은](/chapter03/3.3_JDBC_전략_패턴의_최적화.md)
-[3.4: 컨텍스트와 DI](https://github.com/hhplus9-6team/toby-spring-study/issues/33) | 현정
+[3.4: 컨텍스트와 DI](https://github.com/hhplus9-6team/toby-spring-study/issues/33) | [현정](/chapter03/3.4_컨텍스트와_DI.md)
 [3.5: 템플릿과 콜백](https://github.com/hhplus9-6team/toby-spring-study/issues/34) | [준아](/chapter03/3.5_템플릿과_콜백.md)
-[3.6: 스프링의 JdbcTemplate](https://github.com/hhplus9-6team/toby-spring-study/issues/35) | 다은
+[3.6: 스프링의 JdbcTemplate](https://github.com/hhplus9-6team/toby-spring-study/issues/35) | [다은](/chapter03/3.6_스프링의_JdbcTemplate.md)
 
 ### 4장. 예외
 
 |       소제목       | 발표자료
 :---------------:| :---:
-[4.1: 사라진 SQLException](https://github.com/hhplus9-6team/toby-spring-study/issues/36) | 종완
-4.2: 예외 전환 |
+[4.1: 사라진 SQLException](https://github.com/hhplus9-6team/toby-spring-study/issues/36) | [종완](/chapter04/4.1_사라진_SQLException.md)
+[4.2: 예외 전환](https://github.com/hhplus9-6team/toby-spring-study/issues/41) | [종완](/chapter04/4.2_예외_전환.md)
 
 ### 5장. 서비스 추상화
 
 |       소제목       | 발표자료
 :---------------:| :---:
-5.1: 사용자 레벨 관리 기능 추가 |
-5.2: 트랜잭션 서비스 추상화 |
-5.3: 서비스 추상화와 단일 책임 원칙 |
-5.4: 메일 서비스 추상화 |
+[5.1: 사용자 레벨 관리 기능 추가](https://github.com/hhplus9-6team/toby-spring-study/issues/42) | 현정
+[5.2: 트랜잭션 서비스 추상화](https://github.com/hhplus9-6team/toby-spring-study/issues/43) | 다은
+[5.3: 서비스 추상화와 단일 책임 원칙](https://github.com/hhplus9-6team/toby-spring-study/issues/44) | 준아
+[5.4: 메일 서비스 추상화](https://github.com/hhplus9-6team/toby-spring-study/issues/47) | 다은
 
 ### 6장. AOP
 
 |       소제목       | 발표자료
 :---------------:| :---:
-6.1: 트랜잭션 코드의 분리 |
-6.2: 고립된 단위 테스트 |
-6.3: 다이내믹 프록시와 팩토리 빈 |
+[6.1: 트랜잭션 코드의 분리](https://github.com/hhplus9-6team/toby-spring-study/issues/48) | 종완
+[6.2: 고립된 단위 테스트](https://github.com/hhplus9-6team/toby-spring-study/issues/49) | 준아
+[6.3: 다이내믹 프록시와 팩토리 빈](https://github.com/hhplus9-6team/toby-spring-study/issues/50) | 현정
 6.4: 스프링의 프록시 팩토리 빈 |
 6.5: 스프링 AOP |
 6.6: 트랜잭션 속성 |
