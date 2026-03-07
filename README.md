@@ -14,8 +14,8 @@
 [1.1: 초난감 DAO](https://github.com/hhplus9-6team/toby-spring-study/issues/1) | [다은](/chapter01/1.1_초난감_DAO.md)
 [1.2: DAO의 분리](https://github.com/hhplus9-6team/toby-spring-study/issues/2) | [현정](/chapter01/1.2_DAO의_분리.md)
 [1.3: DAO의 확장](https://github.com/hhplus9-6team/toby-spring-study/issues/3) | [준아](/chapter01/1.3_DAO의_확장.md)
-[1.4: 제어의 역전(IoC)](https://github.com/hhplus9-6team/toby-spring-study/issues/4) | [종완](/chaper01/1.4_제어의_역전_IoC.md)
-[1.5: 스프링의 IoC](https://github.com/hhplus9-6team/toby-spring-study/issues/8) | [현정](/chapter01/1.5_스프링의 IoC.md)
+[1.4: 제어의 역전(IoC)](https://github.com/hhplus9-6team/toby-spring-study/issues/4) | [종완](/chapter01/1.4_제어의_역전_IoC.md)
+[1.5: 스프링의 IoC](https://github.com/hhplus9-6team/toby-spring-study/issues/8) | [현정](/chapter01/1.5_스프링의_IoC.md)
 [1.6: 싱글톤 레지스트리와 오브젝트 스코프](https://github.com/hhplus9-6team/toby-spring-study/issues/9) | [종완](/chapter01/1.6_싱글톤_레지스트리와_오브젝트_스코프.md)
 [1.7: 의존관계 주입(DI)](https://github.com/hhplus9-6team/toby-spring-study/issues/10) | [준아](/chapter01/1.7_의존관계_주입_DI.md)
 [1.8: XML을 이용한 설정](https://github.com/hhplus9-6team/toby-spring-study/issues/11) | [다은](/chapter01/1.8_XML을_이용한_설정.md)
@@ -64,9 +64,9 @@
 [6.1: 트랜잭션 코드의 분리](https://github.com/hhplus9-6team/toby-spring-study/issues/48) | 종완
 [6.2: 고립된 단위 테스트](https://github.com/hhplus9-6team/toby-spring-study/issues/49) | 준아
 [6.3: 다이내믹 프록시와 팩토리 빈](https://github.com/hhplus9-6team/toby-spring-study/issues/50) | 현정
-6.4: 스프링의 프록시 팩토리 빈 |
-6.5: 스프링 AOP |
-6.6: 트랜잭션 속성 |
+6.4: 스프링의 프록시 팩토리 빈 | 종완
+6.5: 스프링 AOP | 현정
+6.6: 트랜잭션 속성 | 준아
 6.7: 애노테이션 트랜잭션 속성과 포인트컷 |
 6.8: 트랜잭션 지원 테스트 |
 
