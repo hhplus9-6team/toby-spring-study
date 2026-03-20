@@ -64,17 +64,17 @@
 [6.1: 트랜잭션 코드의 분리](https://github.com/hhplus9-6team/toby-spring-study/issues/48) | 종완
 [6.2: 고립된 단위 테스트](https://github.com/hhplus9-6team/toby-spring-study/issues/49) | [준아](/chapter06/6.2_고립된_단위_테스트.md)
 [6.3: 다이내믹 프록시와 팩토리 빈](https://github.com/hhplus9-6team/toby-spring-study/issues/50) | 현정
-6.4: 스프링의 프록시 팩토리 빈 | 종완
-6.5: 스프링 AOP | 현정
-6.6: 트랜잭션 속성 | 준아
-6.7: 애노테이션 트랜잭션 속성과 포인트컷 |
-6.8: 트랜잭션 지원 테스트 |
+[6.4: 스프링의 프록시 팩토리 빈](https://github.com/hhplus9-6team/toby-spring-study/issues/56) | 종완
+[6.5: 스프링 AOP](https://github.com/hhplus9-6team/toby-spring-study/issues/57) | 현정
+[6.6: 트랜잭션 속성](https://github.com/hhplus9-6team/toby-spring-study/issues/58) | [준아](/chapter06/6.6_트랜잭션_속성.md)
+[6.7: 애노테이션 트랜잭션 속성과 포인트컷](https://github.com/hhplus9-6team/toby-spring-study/issues/61) | 현정
+[6.8: 트랜잭션 지원 테스트](https://github.com/hhplus9-6team/toby-spring-study/issues/62) | 종완
 
 ### 7장. 스프링 핵심 기술의 응용
 
 |       소제목       | 발표자료
 :---------------:| :---:
-7.1: SQL과 DAO의 분리 |
+[7.1: SQL과 DAO의 분리](https://github.com/hhplus9-6team/toby-spring-study/issues/63) | [준아](/chapter07/7.1_SQL과_DAO의_분리.md)
 7.2: 인터페이스의 분리와 자기 참조 |
 7.3: 서비스 추상화 적용 |
 7.4: 인터페이스 상속을 통한 안전한 기능확장 |
