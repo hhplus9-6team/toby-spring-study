@@ -54,7 +54,7 @@
 :---------------:| :---:
 [5.1: 사용자 레벨 관리 기능 추가](https://github.com/hhplus9-6team/toby-spring-study/issues/42) | 현정
 [5.2: 트랜잭션 서비스 추상화](https://github.com/hhplus9-6team/toby-spring-study/issues/43) | 다은
-[5.3: 서비스 추상화와 단일 책임 원칙](https://github.com/hhplus9-6team/toby-spring-study/issues/44) | 준아
+[5.3: 서비스 추상화와 단일 책임 원칙](https://github.com/hhplus9-6team/toby-spring-study/issues/44) | [준아](/chapter05/5.3_서비스_추상화와_단일_책임_원칙.md)
 [5.4: 메일 서비스 추상화](https://github.com/hhplus9-6team/toby-spring-study/issues/47) | 다은
 
 ### 6장. AOP
@@ -62,7 +62,7 @@
 |       소제목       | 발표자료
 :---------------:| :---:
 [6.1: 트랜잭션 코드의 분리](https://github.com/hhplus9-6team/toby-spring-study/issues/48) | 종완
-[6.2: 고립된 단위 테스트](https://github.com/hhplus9-6team/toby-spring-study/issues/49) | 준아
+[6.2: 고립된 단위 테스트](https://github.com/hhplus9-6team/toby-spring-study/issues/49) | [준아](/chapter06/6.2_고립된_단위_테스트.md)
 [6.3: 다이내믹 프록시와 팩토리 빈](https://github.com/hhplus9-6team/toby-spring-study/issues/50) | 현정
 6.4: 스프링의 프록시 팩토리 빈 | 종완
 6.5: 스프링 AOP | 현정
