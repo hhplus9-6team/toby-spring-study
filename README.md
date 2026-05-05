@@ -2,7 +2,7 @@
 
 ## 일정
 
-- 26.01.17(토) -
+- 26.01.17(토) - 26.04.25(토)
 - 매주 토요일 10시에 오프라인/온라인으로 진행합니다.
 
 ## Vol. 1 스프링의 이해와 원리
@@ -49,72 +49,57 @@
 [4.2: 예외 전환](https://github.com/hhplus9-6team/toby-spring-study/issues/41) | [종완](/chapter04/4.2_예외_전환.md)
 
 ### 5장. 서비스 추상화
-
 |       소제목       | 발표자료
 :---------------:| :---:
-[5.1: 사용자 레벨 관리 기능 추가](https://github.com/hhplus9-6team/toby-spring-study/issues/42) | 현정
-[5.2: 트랜잭션 서비스 추상화](https://github.com/hhplus9-6team/toby-spring-study/issues/43) | 다은
+[5.1: 사용자 레벨 관리 기능 추가](https://github.com/hhplus9-6team/toby-spring-study/issues/42) | [현정](/chapter05/5.1_%EC%82%AC%EC%9A%A9%EC%9E%90_%EB%A0%88%EB%B2%A8_%EA%B4%80%EB%A6%AC_%EA%B8%B0%EB%8A%A5_%EC%B6%94%EA%B0%80.md)
+[5.2: 트랜잭션 서비스 추상화](https://github.com/hhplus9-6team/toby-spring-study/issues/43) | [다은](/chapter05/5.2_%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98_%EC%84%9C%EB%B9%84%EC%8A%A4_%EC%B6%94%EC%83%81%ED%99%94.md)
 [5.3: 서비스 추상화와 단일 책임 원칙](https://github.com/hhplus9-6team/toby-spring-study/issues/44) | [준아](/chapter05/5.3_서비스_추상화와_단일_책임_원칙.md)
-[5.4: 메일 서비스 추상화](https://github.com/hhplus9-6team/toby-spring-study/issues/47) | 다은
+[5.4: 메일 서비스 추상화](https://github.com/hhplus9-6team/toby-spring-study/issues/47) | [다은](/chapter05/5.4_%EB%A9%94%EC%9D%BC_%EC%84%9C%EB%B9%84%EC%8A%A4_%EC%B6%94%EC%83%81%ED%99%94.md)
 
 ### 6장. AOP
 
 |       소제목       | 발표자료
 :---------------:| :---:
-[6.1: 트랜잭션 코드의 분리](https://github.com/hhplus9-6team/toby-spring-study/issues/48) | 종완
+[6.1: 트랜잭션 코드의 분리](https://github.com/hhplus9-6team/toby-spring-study/issues/48) | [종완](chapter06/6.1_%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98_%EC%BD%94%EB%93%9C%EC%9D%98_%EB%B6%84%EB%A6%AC.md)
 [6.2: 고립된 단위 테스트](https://github.com/hhplus9-6team/toby-spring-study/issues/49) | [준아](/chapter06/6.2_고립된_단위_테스트.md)
-[6.3: 다이내믹 프록시와 팩토리 빈](https://github.com/hhplus9-6team/toby-spring-study/issues/50) | 현정
+[6.3: 다이내믹 프록시와 팩토리 빈](https://github.com/hhplus9-6team/toby-spring-study/issues/50) | [현정](/chapter06/6.3_%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9_%ED%94%84%EB%A1%9D%EC%8B%9C%EC%99%80_%ED%8C%A9%ED%86%A0%EB%A6%AC_%EB%B9%88.md)
 [6.4: 스프링의 프록시 팩토리 빈](https://github.com/hhplus9-6team/toby-spring-study/issues/56) | 종완
-[6.5: 스프링 AOP](https://github.com/hhplus9-6team/toby-spring-study/issues/57) | 현정
+[6.5: 스프링 AOP](https://github.com/hhplus9-6team/toby-spring-study/issues/57) | [현정](/chapter06/6.5_%EC%8A%A4%ED%94%84%EB%A7%81_AOP.md)
 [6.6: 트랜잭션 속성](https://github.com/hhplus9-6team/toby-spring-study/issues/58) | [준아](/chapter06/6.6_트랜잭션_속성.md)
-[6.7: 애노테이션 트랜잭션 속성과 포인트컷](https://github.com/hhplus9-6team/toby-spring-study/issues/61) | 현정
-[6.8: 트랜잭션 지원 테스트](https://github.com/hhplus9-6team/toby-spring-study/issues/62) | 종완
+[6.7: 애노테이션 트랜잭션 속성과 포인트컷](https://github.com/hhplus9-6team/toby-spring-study/issues/61) | [현정](/chapter06/6.7_%EC%95%A0%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98_%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98_%EC%86%8D%EC%84%B1%EA%B3%BC_%ED%8F%AC%EC%9D%B8%ED%8A%B8%EC%BB%B7.md)
+[6.8: 트랜잭션 지원 테스트](https://github.com/hhplus9-6team/toby-spring-study/issues/62) | [종완](/chapter06/6.8_%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98_%EC%A7%80%EC%9B%90_%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
 
 ### 7장. 스프링 핵심 기술의 응용
 
 |       소제목       | 발표자료
 :---------------:| :---:
 [7.1: SQL과 DAO의 분리](https://github.com/hhplus9-6team/toby-spring-study/issues/63) | [준아](/chapter07/7.1_SQL과_DAO의_분리.md)
-7.2: 인터페이스의 분리와 자기 참조 |
-7.3: 서비스 추상화 적용 |
-7.4: 인터페이스 상속을 통한 안전한 기능확장 |
-7.5: DI를 이용해 다양한 구현 방법 적용하기 |
-7.6: 스프링 3.1의 DI |
+[7.2: 인터페이스의 분리와 자기 참조](https://github.com/hhplus9-6team/toby-spring-study/issues/68)|[현정](chapter07/7.1_SQL%EA%B3%BC_DAO%EC%9D%98_%EB%B6%84%EB%A6%AC.md)
+[7.3: 서비스 추상화 적용](https://github.com/hhplus9-6team/toby-spring-study/issues/69)| 종완
+[7.4: 인터페이스 상속을 통한 안전한 기능확장](https://github.com/hhplus9-6team/toby-spring-study/issues/70)|[오석](chapter07/7.4_%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4_%EC%83%81%EC%86%8D%EC%9D%84_%ED%86%B5%ED%95%9C_%EC%95%88%EC%A0%84%ED%95%9C_%EA%B8%B0%EB%8A%A5%ED%99%95%EC%9E%A5.md)
+[7.5: DI를 이용해 다양한 구현 방법 적용하기](https://github.com/hhplus9-6team/toby-spring-study/issues/71)|[준아](chapter07/7.5_DI%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%B4_%EB%8B%A4%EC%96%91%ED%95%9C_%EA%B5%AC%ED%98%84_%EB%B0%A9%EB%B2%95_%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+[7.6: 스프링 3.1의 DI](https://github.com/hhplus9-6team/toby-spring-study/issues/72)|[다은](chapter07/7.6_%EC%8A%A4%ED%94%84%EB%A7%81_3.1%EC%9D%98_DI.md)
  
 ### 8장. 스프링이란 무엇인가?
 
 |       소제목       | 발표자료
 :---------------:| :---:
-8.1: 스프링의 정의 |
-8.2: 스프링의 목적 |
-8.3: POJO 프로그래밍 |
-8.4: 스프링의 기술 |
+[8.1: 스프링의 정의](https://github.com/hhplus9-6team/toby-spring-study/issues/74)|[오석](chapter08/8.1_%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%98_%EC%A0%95%EC%9D%98.md)
+[8.2: 스프링의 목적](https://github.com/hhplus9-6team/toby-spring-study/issues/75)|[준아](chapter08/8.2_%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%98_%EB%AA%A9%EC%A0%81.md)
+[8.3: POJO 프로그래밍](https://github.com/hhplus9-6team/toby-spring-study/issues/76)|다은
+[8.4: 스프링의 기술](https://github.com/hhplus9-6team/toby-spring-study/issues/77)|[현정](chapter08/8.4_%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%98_%EA%B8%B0%EC%88%A0.md)
 
 ### 9장. 스프링 프로젝트 시작하기
 
 |       소제목       | 발표자료
 :---------------:| :---:
-9.1: 자바 엔터프라이즈 플랫폼과 스프링 애플리케이션 |
-9.2: 개발도구와 환경 |
-9.3: 애플리케이션 아키텍처 |
-
-### 부록 A. 스프링 모듈
-
-|       소제목       | 발표자료
-:---------------:| :---:
-A.1: 스프링 모듈의 종류와 특징 |
-A.2: 스프링 모듈의 의존관계 |
-
-### 부록 B. 스프링 의존 라이브러리
-
-|       소제목       | 발표자료
-:---------------:| :---:
-B.1: 의존 라이브러리의 종류와 특징 |
-B.2: 모듈별 의존 라이브러리 의존관계 |
+[9.1: 자바 엔터프라이즈 플랫폼과 스프링 애플리케이션](https://github.com/hhplus9-6team/toby-spring-study/issues/85)|다은
+[9.2: 개발도구와 환경](https://github.com/hhplus9-6team/toby-spring-study/issues/86)|[준아](chapter09/9.2_%EA%B0%9C%EB%B0%9C%EB%8F%84%EA%B5%AC%EC%99%80_%ED%99%98%EA%B2%BD.md)
+[9.3: 애플리케이션 아키텍처](https://github.com/hhplus9-6team/toby-spring-study/issues/90)|[현정](chapter09/9.3_%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98_%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.md)
 
 
 ## Members
 
-| [![](https://github.com/leevigong.png?size=130)](https://github.com/leevigong) | [![](https://github.com/joona95.png?size=130)](https://github.com/joona95) | [![](https://github.com/HyunJng.png?size=130)](https://github.com/HyunJng) | [![](https://github.com/JK-Kim4.png?size=130)](https://github.com/JK-Kim4) 
-|:------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:
-|                                       다은                                       |                                       준아                                        |                                       현정                                        |                                       종완                                       |
+| [![](https://github.com/leevigong.png?size=130)](https://github.com/leevigong) | [![](https://github.com/joona95.png?size=130)](https://github.com/joona95) | [![](https://github.com/HyunJng.png?size=130)](https://github.com/HyunJng) | [![](https://github.com/JK-Kim4.png?size=130)](https://github.com/JK-Kim4) | [![](https://github.com/omega0493.png?size=130)](https://github.com/omega0493)
+|:------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:------------------------------------------------------------------------------|:-------------------------------------------------------------------------------:|
+|                                       다은                                       |                                       준아                                        |                                       현정                                        |                                       종완                                       |오석|
