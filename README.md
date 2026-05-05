@@ -95,7 +95,7 @@
 :---------------:| :---:
 [9.1: 자바 엔터프라이즈 플랫폼과 스프링 애플리케이션](https://github.com/hhplus9-6team/toby-spring-study/issues/85)|다은
 [9.2: 개발도구와 환경](https://github.com/hhplus9-6team/toby-spring-study/issues/86)|[준아](chapter09/9.2_%EA%B0%9C%EB%B0%9C%EB%8F%84%EA%B5%AC%EC%99%80_%ED%99%98%EA%B2%BD.md)
-[9.3: 애플리케이션 아키텍처](https://github.com/hhplus9-6team/toby-spring-study/issues/90)|[현정](chapter09/9.3_%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98_%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.md)
+[9.3: 애플리케이션 아키텍처](https://github.com/hhplus9-6team/toby-spring-study/issues/90)|[준아](chapter09/9.3_%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98_%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.md)
 
 
 ## Members
